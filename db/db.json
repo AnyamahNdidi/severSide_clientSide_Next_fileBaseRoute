@@ -1,0 +1,19 @@
+{
+    "post":[
+        {
+            "id":"1",
+            "title":"oops man post",
+            "body":"lorem ipsum"
+        },
+          {
+            "id":"2",
+            "title":"nextjs",
+            "body":"other ipsum"
+        },
+          {
+            "id":"3",
+            "title":"fellow post",
+            "body":"main ipsum"
+        }
+    ]
+}
